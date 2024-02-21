@@ -44,7 +44,7 @@ docker pull beveradb/docusaurus
 You can run a local test in Docker like so; this assumes you have your docusaurus config and docs in a folder called "docs", and want to serve on port 3000:
 
 ```bash
-docker run -it --rm -p 3000:80 -v `pwd`/docs:/docusaurus beveradb/docusaurus
+docker run -it --rm -p 3000:3000 -v `pwd`/docs:/docusaurus beveradb/docusaurus
 ```
 
 Once the container starts, your docs should be available at URL:
