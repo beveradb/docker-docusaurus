@@ -1,0 +1,7 @@
+2024-02-21 16:56:40,806 INFO Set uid to user 0 succeeded
+2024-02-21 16:56:40,808 INFO supervisord started with pid 7
+2024-02-21 16:56:41,818 INFO spawned: 'docusaurus' with pid 8
+2024-02-21 16:56:42,992 INFO success: docusaurus entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-02-21 16:57:37,417 WARN received SIGINT indicating exit request
+2024-02-21 16:57:37,419 INFO waiting for docusaurus to die
+2024-02-21 16:57:38,423 WARN stopped: docusaurus (terminated by SIGTERM)
