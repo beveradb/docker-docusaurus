@@ -44,11 +44,7 @@ You can run a local test in Docker like so; this assumes you have your docusauru
 docker run -it --rm -p 3000:80 -v `pwd`/docs:/docusaurus beveradb/docusaurus
 ```
 
-Once the container starts, your docs should be available at URL:
-
-```http
-http://localhost:3000
-```
+Once the container starts, your docs should be available at http://localhost:3000
 
 ### Configuration
 
