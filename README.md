@@ -1,12 +1,9 @@
 # docker-docusaurus
 
-![](https://img.shields.io/badge/multiarch-amd64(x86__64)%2C%20arm64%2C%20armv7%2C%20armv6-lightgrey?style=flat-square)
-![](https://img.shields.io/github/actions/workflow/status/beveradb/docker-docusaurus/buildx.yml?branch=main?style=flat-square)
-
-![](https://img.shields.io/docker/image-size/beveradb/docusaurus/latest?style=flat-square)
-![](https://img.shields.io/docker/pulls/beveradb/docusaurus?style=flat-square)
-![](https://img.shields.io/docker/stars/beveradb/docusaurus?style=flat-square)
-
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/beveradb/docker-docusaurus/buildx.yml)
+![Docker Image Size](https://img.shields.io/docker/image-size/beveradb/docusaurus)
+![Docker Pulls](https://img.shields.io/docker/pulls/beveradb/docusaurus)
+![Docker Stars](https://img.shields.io/docker/stars/beveradb/docusaurus)
 
 ⚠️ Warning: This is *not* the [recommended way to deploy](https://docusaurus.io/docs/deployment#choosing-a-hosting-provider) Docusaurus docs. Ideally you should use a static hosting provider or CDN. Only use this if you understand that and know you want to serve it from a container instead.
 
